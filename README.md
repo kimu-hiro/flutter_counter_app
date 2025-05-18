@@ -1,16 +1,23 @@
-# tap_game
+## 📱 VividStyle Counter
 
-A new Flutter project.
+習慣や挑戦の継続日数を、シンプルに記録できるFlutter製カウントアプリです。
 
-## Getting Started
+### 🔧 特徴
 
-This project is a starting point for a Flutter application.
+- ワンタップでカウントアップ
+- 減算ボタンで数値を戻せる
+- タップごとに背景グラデーションが変化し、飽きずに使える
+- カウントデータは端末に保存され、再起動しても継続されます
 
-A few resources to get you started if this is your first Flutter project:
+### 🧠 使い道の例
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 新しい習慣の継続日数トラッキング
+- 自己管理や記録としての利用
+- 日々の目標達成数を見える化
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ⚙️ 技術スタック
+
+- Flutter 3.x
+- Dart
+- Shared Preferencesによるローカル保存
+
